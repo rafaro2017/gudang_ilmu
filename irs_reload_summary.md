@@ -14,17 +14,20 @@ Sotfware atau apalikasi ini hanya bisa di jalankan pada lingkungan desktop Windo
 ## Software dan Library pendukung
 Software ini tidak bisa berdiri sendiri. Harus ada beberapa software dan library pendukung agar fungsi dan operasional software dapat berjalan dengan benar.
 Berikut daftarnya :
-* Master installer, untuk master installer dapat di download di alamat [Download site]http://softwarepulsairs.com/demo 
+* Master installer, untuk master installer dapat di download di alamat `[Download site]http://softwarepulsairs.com/demo`
 * MySQL Database Server, secara default komponen ini sudah ada pada master installer, namun bisa juga menggunakan existing database server lain.
 * GIT, library untuk menjalankan push dan pull GIT dari public
 * NodeJS, merupakan library atau framework javascript
 
 ## Langkah installasi 
+1. Jalankan file IRSSetup.exe
+2. Arahkan pada target folder installasi, misal : C:\Program Files\IRS\
+3. Centang semua software dan library pendukung agar terinstall bersamaan
+4. Tunggu hingga proses intsall selesai
+5. Aktifvasi software
 
 ## Troubleshoot
-* Masalah yang sering terjadi
-* Gangguan perangkat keras
-* Gannguan perangkat lunak
+1. `-----`
 ---
 <br>
 
