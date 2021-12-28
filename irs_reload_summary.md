@@ -1,6 +1,6 @@
 # IRS ( INTEGRATED RELOAD SYSTEM )
 > <br>
-> PENGENALAN :  
+> **PENGENALAN** :  
 > IRS ( Integrated Reload System ) Merupakan software server pulsa berbasis desktop yang dikembangkan oleh PT AVIAN SINAR ABADI.
 >
 > Untuk dapat digunakan dengan baik, maka perlu dilakukan installasi master aplikasi dan software pendukung berikut.
