@@ -34,6 +34,11 @@ Beberapa menu utama diantaranya :
 3. Pengaturan
 4. Keuangan
 
+> ### Catatan : :bulb:
+> :bulb: Tulisan ini masih dalam tahap penyempurnaan, sehingga belum bisa menjadi referensi yang valid.
+> <br>
+> <br> 
+
 
 
 
