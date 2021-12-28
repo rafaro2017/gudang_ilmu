@@ -15,10 +15,10 @@ Platform yang didukung sotfware IRS hanya Windows Desktop.
 ## 2. Software dan Library pendukung
 Software ini tidak bisa berdiri sendiri. Harus ada beberapa software dan library pendukung agar fungsi dan operasional software dapat berjalan dengan benar.
 Berikut daftarnya :
-* Master installer, untuk master installer dapat di download di alamat [Download](http://softwarepulsairs.com/demo)
-* MySQL Database Server, secara default komponen ini sudah ada pada master installer, namun bisa juga menggunakan existing database server lain.
-* GIT, library untuk menjalankan push dan pull GIT dari public
-* NodeJS, merupakan library atau framework javascript
+* `Master installer`, untuk master installer dapat di download di alamat [Download](http://softwarepulsairs.com/demo)
+* `MySQL Database Server`, secara default komponen ini sudah ada pada master installer, namun bisa juga menggunakan existing database server lain.
+* `GIT`, library untuk menjalankan push dan pull GIT dari public
+* `NodeJS`, merupakan library atau framework javascript
 
 ## Langkah installasi 
 1. Jalankan file IRSSetup.exe
